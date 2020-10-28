@@ -1,0 +1,6 @@
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\obj\Debug\Termin6BiletarnicaHomework.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\bin\Debug\Termin6BiletarnicaHomework.exe.config
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\bin\Debug\Termin6BiletarnicaHomework.exe
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\bin\Debug\Termin6BiletarnicaHomework.pdb
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\obj\Debug\Termin6BiletarnicaHomework.exe
+D:\Software development\C Sharp Practice\Termin6BiletarnicaHomework\Termin6BiletarnicaHomework\obj\Debug\Termin6BiletarnicaHomework.pdb
